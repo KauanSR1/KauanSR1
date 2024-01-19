@@ -26,7 +26,7 @@
 <!-- Dropdown -->
 <details>
   
-  <summary>👨‍💻 UM pouco mais sobre mim ...</summary> 
+  <summary>👨‍💻 Um pouco mais sobre mim ...</summary> 
 
   - ⚡ Posso dizer que sou bastente curioso pois não há como não se surpreender com o que podemos fazer hoje em dia. Desde pequenos toques em nossos celular nas quais podemem em questão de segundos mudar algo a quilômetros de distâncias ou até mesmo coisas mais comuns em nosso cotidiano.
     
