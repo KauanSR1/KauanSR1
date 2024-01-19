@@ -33,6 +33,16 @@
   - 💻 Estudo Front-end por conta , tenho alguns pequenos projetos.
 </details>
 
+
+<!-- Links -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kausilva.png/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-da-silva-ribeiro-8399b6295/)
+
+
+
+<!-- GithubStats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSR1&theme=dark&show_icons=true)
+
 ---
 <!--Spotify-->
 
@@ -40,21 +50,11 @@
 
 ---
 
-<!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kausilva.png/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-da-silva-ribeiro-8399b6295/)
-
-
-<!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSR1&theme=dark&show_icons=true)
-
-
 
 <!-- Portfolio 
 ## Portfolio: 
 - -->
 
----
 
 <!-- GIF -->
 <p align="left">
