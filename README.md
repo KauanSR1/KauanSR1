@@ -9,9 +9,6 @@
 
 <!--- snake --->
 
-
-<br>
-
 <!-- Presentation -->
 <p>
  Olá 👋, Me chamo Kauan da Silva tenho 20 anos! E sou Superior em análise e desenvolvimentos de sistemas.
