@@ -31,7 +31,7 @@
 
 
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kausilva.png/)
+ <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] IG -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-da-silva-ribeiro-8399b6295/)
 
 
@@ -41,8 +41,7 @@
 
 ---
 <!--Spotify-->
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kauandss&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314n262ypwksbtbm4clicgrmpknq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
