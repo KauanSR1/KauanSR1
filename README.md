@@ -39,7 +39,7 @@
 
 <!-- Portfolio  -->
 
-https://github.com/KauanSR1/KauanSR1.github.io
+- https://kauansr1.github.io
 
 <!-- GIF -->
 <p align="left">
