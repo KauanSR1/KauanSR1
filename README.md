@@ -29,32 +29,25 @@
 
 <!-- Links -->
  <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)] IG -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-da-silva-ribeiro-8399b6295/)
 
-
-
+ 
 <!-- GithubStats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KauanSR1&theme=dark&show_icons=true)
 
-
-<p align="left">Progamming Languages</p>
-
----
-
 ---
 
 
-<!-- Portfolio 
-## Portfolio: 
-- -->
+<!-- Portfolio  -->
 
+https://github.com/KauanSR1/KauanSR1.github.io
 
 <!-- GIF -->
 <p align="left">
   <img align="center" src="https://steamuserimages-a.akamaihd.net/ugc/785233987053391232/C60BB8D28229855A2A588225919B45CFA58012C2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Imagem">
 </p>
 
-
+🔥 Skills
+---
 <p align="left">Progamming Languages</p>
 
 ###
