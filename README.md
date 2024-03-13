@@ -39,7 +39,6 @@
 
 <!-- Portfolio  -->
 
-- https://kauansr1.github.io
 
 <!-- GIF -->
 <p align="left">
