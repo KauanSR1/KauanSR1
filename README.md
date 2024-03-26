@@ -11,9 +11,9 @@
 
 <!-- Presentation -->
 <p>
- Olá 👋, Me chamo Kauan da Silva tenho 20 anos! E sou Superior em análise e desenvolvimentos de sistemas.
+ Olá 👋, Me chamo Kauan da Silva tenho 20 anos! E tenho graduação em  Superior em análise e desenvolvimentos de sistemas.
 
-  - 🔭 Estou a procura de minha Primeira oportuinidade de trabalho em minha área.
+  - 🔭 Estou a procura de vagas de estagio como desenvolvedor Front-end.
 </p>
 
 <!-- Dropdown -->
@@ -21,7 +21,9 @@
   
   <summary>👨‍💻 Um pouco mais sobre mim ...</summary> 
 
-  - ⚡ Posso dizer que sou bastente curioso pois não há como não se surpreender com o que podemos fazer hoje em dia. Desde pequenos toques em nossos celular nas quais podemem em questão de segundos mudar algo a quilômetros de distâncias ou até mesmo coisas mais comuns em nosso cotidiano.
+  - ⚡ Bem se você clickou em sobre mim ....  parece que lhe chamei a atenção sendo assim logo abaixo vc sabera mais sobre minha pessoa.
+  
+  - 👀 Estudo Programação a pouco tempo , em torno de 2 meses , porem tenho focado em alguns projetos como Landing page e portifolios com ajuda é claro de cursos , porem sou bastante focado com o que me chama a atenção.
     
   - 💻 Estudo Front-end , tenho alguns pequenos projetos.
 </details>
